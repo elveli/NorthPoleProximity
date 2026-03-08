@@ -1,0 +1,5 @@
+{
+  "name": "North Pole Proximity",
+  "description": "Compares two cities to determine which is further north and calculates the distance difference to the North Pole.",
+  "requestFramePermissions": []
+}

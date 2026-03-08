@@ -1,0 +1,38 @@
+<svg width="800" height="550" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#f5f5f5"/>
+  <rect x="50" y="40" width="700" height="470" rx="24" fill="#ffffff" stroke="#f1f5f9" stroke-width="2"/>
+  
+  <text x="400" y="100" font-family="sans-serif" font-size="24" font-weight="500" text-anchor="middle" fill="#0f172a">
+    <tspan font-weight="bold" fill="#4f46e5">London, UK</tspan> is further north!
+  </text>
+  <text x="400" y="130" font-family="sans-serif" font-size="16" text-anchor="middle" fill="#64748b">
+    London is located at approximately 51.5°N, while New York is at approximately 40.7°N.
+  </text>
+
+  <rect x="90" y="170" width="193" height="120" rx="16" fill="#f8fafc"/>
+  <text x="186" y="205" font-family="sans-serif" font-size="12" font-weight="600" text-anchor="middle" fill="#64748b" letter-spacing="1">LATITUDE DIFF</text>
+  <text x="186" y="250" font-family="sans-serif" font-size="32" font-weight="300" text-anchor="middle" fill="#0f172a">10.79°</text>
+
+  <rect x="303" y="170" width="193" height="120" rx="16" fill="#f8fafc"/>
+  <text x="400" y="205" font-family="sans-serif" font-size="12" font-weight="600" text-anchor="middle" fill="#64748b" letter-spacing="1">DISTANCE (KM)</text>
+  <text x="400" y="250" font-family="sans-serif" font-size="32" font-weight="300" text-anchor="middle" fill="#0f172a">1,199 km</text>
+  <text x="400" y="275" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#94a3b8">closer to North Pole</text>
+
+  <rect x="516" y="170" width="193" height="120" rx="16" fill="#f8fafc"/>
+  <text x="612" y="205" font-family="sans-serif" font-size="12" font-weight="600" text-anchor="middle" fill="#64748b" letter-spacing="1">DISTANCE (MILES)</text>
+  <text x="612" y="250" font-family="sans-serif" font-size="32" font-weight="300" text-anchor="middle" fill="#0f172a">745 mi</text>
+  <text x="612" y="275" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#94a3b8">closer to North Pole</text>
+
+  <line x1="90" y1="330" x2="710" y2="330" stroke="#f1f5f9" stroke-width="2"/>
+  <text x="90" y="365" font-family="sans-serif" font-size="14" font-weight="600" fill="#0f172a" letter-spacing="1">COORDINATES</text>
+
+  <rect x="90" y="390" width="300" height="80" rx="12" fill="#ffffff" stroke="#f1f5f9" stroke-width="2"/>
+  <text x="110" y="425" font-family="sans-serif" font-size="16" fill="#94a3b8">📍</text>
+  <text x="135" y="425" font-family="sans-serif" font-size="16" font-weight="500" fill="#0f172a">London, UK</text>
+  <text x="135" y="450" font-family="monospace" font-size="14" fill="#64748b">51.5072° N, 0.1276° W</text>
+
+  <rect x="410" y="390" width="300" height="80" rx="12" fill="#ffffff" stroke="#f1f5f9" stroke-width="2"/>
+  <text x="430" y="425" font-family="sans-serif" font-size="16" fill="#94a3b8">📍</text>
+  <text x="455" y="425" font-family="sans-serif" font-size="16" font-weight="500" fill="#0f172a">New York, NY</text>
+  <text x="455" y="450" font-family="monospace" font-size="14" fill="#64748b">40.7128° N, 74.0060° W</text>
+</svg>
