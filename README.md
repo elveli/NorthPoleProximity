@@ -25,7 +25,7 @@ North Pole Proximity is a web application that allows users to compare two citie
 Here is an example of how the application looks and functions when comparing two cities:
 
 ### 1. Entering Cities
-The user enters two cities, for example, "London, UK" and "New York, NY".
+The user enters two cities, for example, "Anchorage, AK" and "Helsinki, Finland".
 
 ![Input Example](./public/screenshot-input.svg)
 
@@ -35,14 +35,14 @@ After calculation, the app displays the winner and the detailed metrics.
 ![Results Example](./public/screenshot-results.svg)
 
 **Example Output Data:**
-*   **Winner:** London, UK is further north!
-*   **Explanation:** London is located at approximately 51.5°N, while New York is at approximately 40.7°N.
-*   **Latitude Diff:** 10.79°
-*   **Distance (km):** 1,199 km closer to North Pole
-*   **Distance (miles):** 745 mi closer to North Pole
+*   **Winner:** Anchorage, AK is further north!
+*   **Explanation:** Anchorage is located at approximately 61.2°N, while Helsinki is at approximately 60.2°N.
+*   **Latitude Diff:** 1.05°
+*   **Distance (km):** 116 km closer to North Pole
+*   **Distance (miles):** 72 mi closer to North Pole
 *   **Coordinates:**
-    *   London, UK: 51.5072° N, 0.1276° W
-    *   New York, NY: 40.7128° N, 74.0060° W
+    *   Anchorage, AK: 61.2181° N, 149.9003° W
+    *   Helsinki, Finland: 60.1699° N, 24.9384° E
 
 ## Technologies Used
 
