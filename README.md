@@ -56,3 +56,6 @@ After calculation, the app displays the winner and the detailed metrics.
 2.  Install dependencies: `npm install`
 3.  Set up your environment variables. You will need a Gemini API key. Create a `.env` file based on `.env.example` and add your key: `GEMINI_API_KEY="your_api_key_here"`
 4.  Start the development server: `npm run dev`
+
+
+[![Hits](https://hits.sh/github.com/elveli/repository.svg)](https://hits.sh/github.com/elveli/repository/)
